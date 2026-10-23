@@ -1,0 +1,5 @@
+python-telegram-bot
+google-genai
+edge-tts
+moviepy
+requests
